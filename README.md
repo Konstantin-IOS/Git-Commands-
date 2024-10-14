@@ -1,9 +1,5 @@
 # A list of commonly used Git commands
 
-If you're looking for more details on my Git aliases, check out my [bash_profile](https://github.com/joshnh/bash_profile/blob/master/.bash_profile).
-
----
-
 ## Getting & Creating Projects
 
 | Command | Description |
