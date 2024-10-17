@@ -50,6 +50,7 @@
 | `git stash` | Stash your current changes |
 | `git stash clear` | Remove all stashed changes |
 | `git stash pop` | Apply the most recent stashed changes |
+| `git reset --hard`| Resets the code to when it was last pushed|
 
 ---
 
